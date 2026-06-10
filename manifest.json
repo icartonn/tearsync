@@ -1,1 +1,251 @@
-{} 
+{
+  "repo": "icartonn/tearsync",
+  "tag": "mods",
+  "mods": {
+    "2500181730_nuke.zip": {
+      "folder_name": "2500181730_nuke",
+      "folder_hash": "8880da6e9ebb93915fb5aa5bcb5a32327ed71f48876b74001197b8bc115b688a",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/2500181730_nuke.zip"
+    },
+    "2807752513_ikea_showrooms.zip": {
+      "folder_name": "2807752513_ikea_showrooms",
+      "folder_hash": "79bf739daecb94a7b79303dc5582437f22c1d96e5436c4a363bc65d9f10066e9",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/2807752513_ikea_showrooms.zip"
+    },
+    "3441296390.zip": {
+      "folder_name": "3441296390",
+      "folder_hash": "027b7eff5f80221b3c9e426a03a9eeb05fc8058cd66391c18aa476b0681b4972",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/3441296390.zip"
+    },
+    "3621818416.zip": {
+      "folder_name": "3621818416",
+      "folder_hash": "f479d2200aaac4e55e956b58c75d1d3c77b6a69c327a7d18ef57251d63da76c2",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/3621818416.zip"
+    },
+    "3621835738.zip": {
+      "folder_name": "3621835738",
+      "folder_hash": "bfd0b7c1e78a5c9f51ecd049e1335607f413c2bafee2b4d5f0e54df313db6df8",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/3621835738.zip"
+    },
+    "3670198722_admin_stick__panel_mp.zip": {
+      "folder_name": "3670198722_admin_stick__panel_mp",
+      "folder_hash": "d020f5b4465ee13bc634994caf13a5fb44f76ac632c213e0933d6db88d925c1d",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/3670198722_admin_stick__panel_mp.zip"
+    },
+    "assetpack.zip": {
+      "folder_name": "assetpack",
+      "folder_hash": "3e7991749216b39ac375fe58bdc8373c50a1465d2a1c233dbe8afbe617f256a4",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/assetpack.zip"
+    },
+    "bananabomb.zip": {
+      "folder_name": "bananabomb",
+      "folder_hash": "2dceab3e8f91f4b197467276e98d51a141c163d441a8adf77614838382db53e5",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/bananabomb.zip"
+    },
+    "basic.zip": {
+      "folder_name": "basic",
+      "folder_hash": "0afec65b40dee5fe7550340db1f97a38d13e78ed05e0c0d7f45d812f4ef0a37e",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/basic.zip"
+    },
+    "castle.zip": {
+      "folder_name": "castle",
+      "folder_hash": "0813ad9add6f9e48570858b8b0ef0cd5ebaaeb2296f3eccba2a410f5c79a4622",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/castle.zip"
+    },
+    "contentgamemodeexample.zip": {
+      "folder_name": "contentgamemodeexample",
+      "folder_hash": "4bff153669dac762ddcb768322ccd5cea3a4bb8d7612ccb4dbc0c577da718c22",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/contentgamemodeexample.zip"
+    },
+    "cratertown.zip": {
+      "folder_name": "cratertown",
+      "folder_hash": "c41b64300cdef31d8b134d6a0ed74ea61ca38f953063545b17cf36829cc9731d",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/cratertown.zip"
+    },
+    "cullington.zip": {
+      "folder_name": "cullington",
+      "folder_hash": "0871af68922e035f0eb07b7f18a8aef0bd1ab0511093f64482bfc200172c0b0c",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/cullington.zip"
+    },
+    "debuginfo.zip": {
+      "folder_name": "debuginfo",
+      "folder_hash": "1b03b5fef67d90d5cbfc154c5f7dbda7874ad53a4a3581c7b5fc7cd574b09cfc",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/debuginfo.zip"
+    },
+    "drivetosurvive.zip": {
+      "folder_name": "drivetosurvive",
+      "folder_hash": "71b698f8604085f1db5aeefa5f4727e71cb2c822c30c0441611d8e818d78d940",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/drivetosurvive.zip"
+    },
+    "editorshowcase.zip": {
+      "folder_name": "editorshowcase",
+      "folder_hash": "671c2e091598b2f99ee4dbaaea14070f273f92225916dbc91404b3845d709046",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/editorshowcase.zip"
+    },
+    "evertidesmall.zip": {
+      "folder_name": "evertidesmall",
+      "folder_hash": "452a01d156e72069bdbec702e01540c8d3c9ba93b7f07aa5f9d2402928bc0792",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/evertidesmall.zip"
+    },
+    "frustrum.zip": {
+      "folder_name": "frustrum",
+      "folder_hash": "52eeb17ec1ee1a51fe1e704cafeeb6a9a1171b79e999578a97e24feaee05e135",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/frustrum.zip"
+    },
+    "heistexample.zip": {
+      "folder_name": "heistexample",
+      "folder_hash": "67983b828373e3c7294bdf13311c26c074a218021f5955228401551ba42ec972",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/heistexample.zip"
+    },
+    "hollowrockisland.zip": {
+      "folder_name": "hollowrockisland",
+      "folder_hash": "bb00ae9aab9d501f0e0e8dcca14792b23dfb6b13ef7ea7f1563b2b03ed41c37c",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/hollowrockisland.zip"
+    },
+    "House_REPOST_Copy.zip": {
+      "folder_name": "House [REPOST] Copy",
+      "folder_hash": "4be744ebc5a35708d350deb62d00e4dcd9cd93ec7ec72240ad92c1ee60e63406",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/House_REPOST_Copy.zip"
+    },
+    "islaestocastica.zip": {
+      "folder_name": "islaestocastica",
+      "folder_hash": "c3d7dd80a5ef3a559877fb0c8c5621d4b97933ecd3ef5cb034236ae376049280",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/islaestocastica.zip"
+    },
+    "jetpack.zip": {
+      "folder_name": "jetpack",
+      "folder_hash": "b800df3055355f94bef8e136fae848ee925b677fe8ed507afcf72862b69e6d53",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/jetpack.zip"
+    },
+    "lasergun.zip": {
+      "folder_name": "lasergun",
+      "folder_hash": "29aea99a8a9fdd3409cb5776d165edb7914bbbbd9ea6545925c1764777a1551d",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/lasergun.zip"
+    },
+    "leechemicals.zip": {
+      "folder_name": "leechemicals",
+      "folder_hash": "99566c5ccff33b583e07ed2aa547cd0773afbe7eea8453c999b8fbe92dfbfc86",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/leechemicals.zip"
+    },
+    "merlin.zip": {
+      "folder_name": "merlin",
+      "folder_hash": "3c65a9d9fd19f695f05708ab835fbb4c89a0fef0f41da3eb267236ba56264dff",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/merlin.zip"
+    },
+    "minigun.zip": {
+      "folder_name": "minigun",
+      "folder_hash": "4dd55501a8b7d1ac68c14f8aefdcca1c0aa012a53d47c660f8d66a4d26ff534e",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/minigun.zip"
+    },
+    "motorpark.zip": {
+      "folder_name": "motorpark",
+      "folder_hash": "3392711a2c5d2ae5b0de69a72ae8c33a533b4b8c6543c43f9df77337bedf6ae2",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/motorpark.zip"
+    },
+    "mpclassics.zip": {
+      "folder_name": "mpclassics",
+      "folder_hash": "b4a595d3b4b2164853ea390dbe566d920eb25b69355792ac79dfae9ddac8523e",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/mpclassics.zip"
+    },
+    "muratoribeach.zip": {
+      "folder_name": "muratoribeach",
+      "folder_hash": "1ee295c263c49f98ee2179a2403344c34c951f5ee7e0f681659c5819d9da8d2c",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/muratoribeach.zip"
+    },
+    "nospawn.zip": {
+      "folder_name": "nospawn",
+      "folder_hash": "bd8546b178d866e1b5c912481199219c58cfcc1d900728a8a02b253c4091dd79",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/nospawn.zip"
+    },
+    "proppack.zip": {
+      "folder_name": "proppack",
+      "folder_hash": "96eb06aabca1abe1b1731889e943e98603cb2385d59e419edf4b02affa9ead9c",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/proppack.zip"
+    },
+    "quilezsecurity.zip": {
+      "folder_name": "quilezsecurity",
+      "folder_hash": "355f133bf22eff5e61503837ad5b29951c51fdbde343a88d54a5943e832f474d",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/quilezsecurity.zip"
+    },
+    "robotshowcase.zip": {
+      "folder_name": "robotshowcase",
+      "folder_hash": "51631aeda54c4ad7bde95c0abbf849e6c1852803e78cee5b5519302b29b2a74c",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/robotshowcase.zip"
+    },
+    "SC_Iris_2.zip": {
+      "folder_name": "SC Iris 2",
+      "folder_hash": "37f5f609e38933989ce514e6b610980f7b4ad206232327ad781355d43267fbfe",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/SC_Iris_2.zip"
+    },
+    "screenrecorder.zip": {
+      "folder_name": "screenrecorder",
+      "folder_hash": "ea0708b1f0fcdd2cb2a7c4ea459f3d8f6637fb2f6a6b94393b537493c45bd89e",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/screenrecorder.zip"
+    },
+    "scriptingshowcase.zip": {
+      "folder_name": "scriptingshowcase",
+      "folder_hash": "b605f509b89ee21b8cd8fa503b98dbd62e2b4e3d5071c4fcc593d4e41e6de954",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/scriptingshowcase.zip"
+    },
+    "simplehouse.zip": {
+      "folder_name": "simplehouse",
+      "folder_hash": "f75c011a73764acb6fb7ce7627de5162de2d40d547ee1e79e5fafe7bd0196e56",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/simplehouse.zip"
+    },
+    "slowmotion.zip": {
+      "folder_name": "slowmotion",
+      "folder_hash": "eaee546a2f1a3ab15e5594ed440fd75b64b0c9f10bb6b0fef8f5b6867248aaba",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/slowmotion.zip"
+    },
+    "smokegun.zip": {
+      "folder_name": "smokegun",
+      "folder_hash": "960c65c96d9656deb96522db58bd43f465a6b3e62378d587e9be97e65b2dc61b",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/smokegun.zip"
+    },
+    "speedometer.zip": {
+      "folder_name": "speedometer",
+      "folder_hash": "11d5d0d86ce0d2e6673003f804b53b182fcf1c54ce595b20347c1364f42bd2a1",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/speedometer.zip"
+    },
+    "splitfieldestate.zip": {
+      "folder_name": "splitfieldestate",
+      "folder_hash": "0bbcffa4a59c1df919d6fc9b6aff3bf433c726db337c945586cefe4770b40b29",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/splitfieldestate.zip"
+    },
+    "tillaggaryd.zip": {
+      "folder_name": "tillaggaryd",
+      "folder_hash": "3662fbc9ca515048234f0817931eb351d26bc24b7b1f4a89d53b7e795a23b28e",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/tillaggaryd.zip"
+    },
+    "uishowcase.zip": {
+      "folder_name": "uishowcase",
+      "folder_hash": "fa3fb2916ebc1a246f614ab94b4dd0bd31cbeccec8c9db5c3db2ad2e0746c975",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/uishowcase.zip"
+    },
+    "vehiclebooster.zip": {
+      "folder_name": "vehiclebooster",
+      "folder_hash": "daf472ee12378d3a57d748893b572dca87393df237c0f887775042c24564bd5c",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/vehiclebooster.zip"
+    },
+    "vehicleikshowcase.zip": {
+      "folder_name": "vehicleikshowcase",
+      "folder_hash": "7cfdd6f0caad3c53c031708b710fab375a949ea508ba20ebf5531f9ae53c832a",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/vehicleikshowcase.zip"
+    },
+    "vehiclepack.zip": {
+      "folder_name": "vehiclepack",
+      "folder_hash": "e8a0e825cb0f20f47f4b05258e99a523b9e4d49c4794623f1d655d3af8fcddf5",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/vehiclepack.zip"
+    },
+    "villagordon.zip": {
+      "folder_name": "villagordon",
+      "folder_hash": "c45d3f2a0f62a1dc1e7dd6d6b5967503b30447a3deddd98f858312353a31af06",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/villagordon.zip"
+    },
+    "westpointmarina.zip": {
+      "folder_name": "westpointmarina",
+      "folder_hash": "891f2161bfcd43a3e6845a2d816a94aa8e78bd2d196c5dba1fb0662317df2bb1",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/westpointmarina.zip"
+    }
+  }
+}
