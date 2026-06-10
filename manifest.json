@@ -87,6 +87,11 @@
       "folder_hash": "c41b64300cdef31d8b134d6a0ed74ea61ca38f953063545b17cf36829cc9731d",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/cratertown.zip"
     },
+    "CS2_Competitive_mode_MP.zip": {
+      "folder_name": "CS2 Competitive mode [MP]",
+      "folder_hash": "cb32893af8e04a731c6e577ba3bf78ba09fe480ace4437e5556024d5d7cb0b0d",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/CS2_Competitive_mode_MP.zip"
+    },
     "cullington.zip": {
       "folder_name": "cullington",
       "folder_hash": "0871af68922e035f0eb07b7f18a8aef0bd1ab0511093f64482bfc200172c0b0c",
