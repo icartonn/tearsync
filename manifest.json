@@ -27,6 +27,11 @@
       "folder_hash": "bfd0b7c1e78a5c9f51ecd049e1335607f413c2bafee2b4d5f0e54df313db6df8",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/3621835738.zip"
     },
+    "3665100521.zip": {
+      "folder_name": "3665100521",
+      "folder_hash": "e7b4001c734e792d866f4d43f9943c96862adb74e1da2f872fde4b37e40ba8ca",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/3665100521.zip"
+    },
     "3670198722_admin_stick__panel_mp.zip": {
       "folder_name": "3670198722_admin_stick__panel_mp",
       "folder_hash": "d020f5b4465ee13bc634994caf13a5fb44f76ac632c213e0933d6db88d925c1d",
@@ -211,6 +216,11 @@
       "folder_name": "splitfieldestate",
       "folder_hash": "0bbcffa4a59c1df919d6fc9b6aff3bf433c726db337c945586cefe4770b40b29",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/splitfieldestate.zip"
+    },
+    "Tearware.zip": {
+      "folder_name": "Tearware",
+      "folder_hash": "1c05753c4462e94f43d1024a5a42b4c0f5b56f6f710d694fa8a90a7818636424",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/Tearware.zip"
     },
     "tillaggaryd.zip": {
       "folder_name": "tillaggaryd",
