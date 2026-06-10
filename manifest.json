@@ -12,6 +12,21 @@
       "folder_hash": "79bf739daecb94a7b79303dc5582437f22c1d96e5436c4a363bc65d9f10066e9",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/2807752513_ikea_showrooms.zip"
     },
+    "2892267945.zip": {
+      "folder_name": "2892267945",
+      "folder_hash": "5bac5e00766e518d477b0ec884482399df053076853e3c571ee9058f198f909c",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/2892267945.zip"
+    },
+    "2979329972_realistic_russian_school_alpha.zip": {
+      "folder_name": "2979329972_realistic_russian_school_alpha",
+      "folder_hash": "bd50545ebe5b1a41168cd4264f50ee9a67cbda9ed56792915a92f559ef089437",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/2979329972_realistic_russian_school_alpha.zip"
+    },
+    "3296484347.zip": {
+      "folder_name": "3296484347",
+      "folder_hash": "664c118b93b87fc5412b652b11b2e170adb461d1d1c2aa60e892c41b9a22d605",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/3296484347.zip"
+    },
     "3441296390.zip": {
       "folder_name": "3441296390",
       "folder_hash": "027b7eff5f80221b3c9e426a03a9eeb05fc8058cd66391c18aa476b0681b4972",
@@ -117,6 +132,11 @@
       "folder_hash": "c3d7dd80a5ef3a559877fb0c8c5621d4b97933ecd3ef5cb034236ae376049280",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/islaestocastica.zip"
     },
+    "item_3597367667.zip": {
+      "folder_name": "item_3597367667",
+      "folder_hash": "198fe8023d263e2beb6a49ee7ab7c5bd189c5c690757a07714a185b788590176",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/item_3597367667.zip"
+    },
     "jetpack.zip": {
       "folder_name": "jetpack",
       "folder_hash": "b800df3055355f94bef8e136fae848ee925b677fe8ed507afcf72862b69e6d53",
@@ -162,6 +182,11 @@
       "folder_hash": "bd8546b178d866e1b5c912481199219c58cfcc1d900728a8a02b253c4091dd79",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/nospawn.zip"
     },
+    "physgun.zip": {
+      "folder_name": "physgun",
+      "folder_hash": "b7f2d089e4c8f57510fd839d52368bdd5e7fed3306e43e8c67c4ac77adbac186",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/physgun.zip"
+    },
     "proppack.zip": {
       "folder_name": "proppack",
       "folder_hash": "96eb06aabca1abe1b1731889e943e98603cb2385d59e419edf4b02affa9ead9c",
@@ -176,6 +201,11 @@
       "folder_name": "robotshowcase",
       "folder_hash": "51631aeda54c4ad7bde95c0abbf849e6c1852803e78cee5b5519302b29b2a74c",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/robotshowcase.zip"
+    },
+    "rt5.zip": {
+      "folder_name": "rt5",
+      "folder_hash": "13c637c7350a23b6513798179527a9a14f4b819561f8c9d07c0931bc827df169",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/rt5.zip"
     },
     "SC_Iris_2.zip": {
       "folder_name": "SC Iris 2",
@@ -216,11 +246,6 @@
       "folder_name": "splitfieldestate",
       "folder_hash": "0bbcffa4a59c1df919d6fc9b6aff3bf433c726db337c945586cefe4770b40b29",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/splitfieldestate.zip"
-    },
-    "Tearware.zip": {
-      "folder_name": "Tearware",
-      "folder_hash": "1c05753c4462e94f43d1024a5a42b4c0f5b56f6f710d694fa8a90a7818636424",
-      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/Tearware.zip"
     },
     "tillaggaryd.zip": {
       "folder_name": "tillaggaryd",
