@@ -202,10 +202,10 @@
       "folder_hash": "bd8546b178d866e1b5c912481199219c58cfcc1d900728a8a02b253c4091dd79",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/nospawn.zip"
     },
-    "physgun.zip": {
-      "folder_name": "physgun",
-      "folder_hash": "b7f2d089e4c8f57510fd839d52368bdd5e7fed3306e43e8c67c4ac77adbac186",
-      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/physgun.zip"
+    "PhysgunMP.zip": {
+      "folder_name": "PhysgunMP",
+      "folder_hash": "475ef3e5a41f4bb8e69cb7ecd1ad68d4a329f1a01173abcb49e95e5beaea5a3a",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/PhysgunMP.zip"
     },
     "proppack.zip": {
       "folder_name": "proppack",
