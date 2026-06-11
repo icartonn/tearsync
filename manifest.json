@@ -7,6 +7,16 @@
       "folder_hash": "8880da6e9ebb93915fb5aa5bcb5a32327ed71f48876b74001197b8bc115b688a",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/2500181730_nuke.zip"
     },
+    "2559081519.zip": {
+      "folder_name": "2559081519",
+      "folder_hash": "39c70b9fe19538a8154349fcb76c09cea0c5e01dfc45af4a6641c829c0c9b88e",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/2559081519.zip"
+    },
+    "2807752513.zip": {
+      "folder_name": "2807752513",
+      "folder_hash": "50f19bb991f4d24255b14b6f952d76b0d68f769ea59c9177a50a2beda4344faf",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/2807752513.zip"
+    },
     "2807752513_ikea_showrooms.zip": {
       "folder_name": "2807752513_ikea_showrooms",
       "folder_hash": "79bf739daecb94a7b79303dc5582437f22c1d96e5436c4a363bc65d9f10066e9",
@@ -31,11 +41,6 @@
       "folder_name": "2979329972_realistic_russian_school_alpha",
       "folder_hash": "bd50545ebe5b1a41168cd4264f50ee9a67cbda9ed56792915a92f559ef089437",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/2979329972_realistic_russian_school_alpha.zip"
-    },
-    "2989485208_spray.zip": {
-      "folder_name": "2989485208_spray",
-      "folder_hash": "f5d1bffaac1150516f8ada9bb629020f759e3d078e8ef4d20b7396f3576cfe11",
-      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/2989485208_spray.zip"
     },
     "3296484347.zip": {
       "folder_name": "3296484347",
@@ -67,6 +72,11 @@
       "folder_hash": "d020f5b4465ee13bc634994caf13a5fb44f76ac632c213e0933d6db88d925c1d",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/3670198722_admin_stick__panel_mp.zip"
     },
+    "3702158976_Revengeance_Katana_MP.zip": {
+      "folder_name": "3702158976 Revengeance Katana [MP]",
+      "folder_hash": "ae485ab1eb696954767de9dc5d8228bb9114bc8dca5a70cf7a9003963ff89a3b",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/3702158976_Revengeance_Katana_MP.zip"
+    },
     "assetpack.zip": {
       "folder_name": "assetpack",
       "folder_hash": "3e7991749216b39ac375fe58bdc8373c50a1465d2a1c233dbe8afbe617f256a4",
@@ -86,6 +96,11 @@
       "folder_name": "castle",
       "folder_hash": "0813ad9add6f9e48570858b8b0ef0cd5ebaaeb2296f3eccba2a410f5c79a4622",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/castle.zip"
+    },
+    "colored_spraycan_console_multiplayer.zip": {
+      "folder_name": "colored spraycan console multiplayer",
+      "folder_hash": "bbd90c662b4d38c1c296eaa3d4054692a9235b509184de98bd5729717875715b",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/colored_spraycan_console_multiplayer.zip"
     },
     "contentgamemodeexample.zip": {
       "folder_name": "contentgamemodeexample",
@@ -231,6 +246,11 @@
       "folder_name": "rt5",
       "folder_hash": "13c637c7350a23b6513798179527a9a14f4b819561f8c9d07c0931bc827df169",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/rt5.zip"
+    },
+    "Russian_Town_6_Summer.zip": {
+      "folder_name": "Russian Town 6 Summer",
+      "folder_hash": "02bb1f0db7d1a0924b7508eace13a8d2e7fc342a1e5edb63cec81949525b50cd",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/Russian_Town_6_Summer.zip"
     },
     "SC_Iris_2.zip": {
       "folder_name": "SC Iris 2",
