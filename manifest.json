@@ -17,11 +17,6 @@
       "folder_hash": "5bac5e00766e518d477b0ec884482399df053076853e3c571ee9058f198f909c",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/2892267945.zip"
     },
-    "2928101217.zip": {
-      "folder_name": "2928101217",
-      "folder_hash": "feb037e95f73ab4c42ce76cd8f10f63daadc3f5c6504208ef701bb443f1e7345",
-      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/2928101217.zip"
-    },
     "2947228611.zip": {
       "folder_name": "2947228611",
       "folder_hash": "ed7881e69603b12f560800232bcfc481d5ce403b0e0cdeddee007dad518a2ad2",
@@ -137,11 +132,6 @@
       "folder_hash": "67983b828373e3c7294bdf13311c26c074a218021f5955228401551ba42ec972",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/heistexample.zip"
     },
-    "Hide_and_seek_MP.zip": {
-      "folder_name": "Hide and seek [MP]",
-      "folder_hash": "eb5206c077e5d033b2fc0fd5b1cff836728e6c080bda433a1c2f0d23cdf38754",
-      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/Hide_and_seek_MP.zip"
-    },
     "hollowrockisland.zip": {
       "folder_name": "hollowrockisland",
       "folder_hash": "bb00ae9aab9d501f0e0e8dcca14792b23dfb6b13ef7ea7f1563b2b03ed41c37c",
@@ -149,7 +139,7 @@
     },
     "House_REPOST_Copy.zip": {
       "folder_name": "House [REPOST] Copy",
-      "folder_hash": "4be744ebc5a35708d350deb62d00e4dcd9cd93ec7ec72240ad92c1ee60e63406",
+      "folder_hash": "447988e1e338a2a44048ed2ab951b668b256ecd875513cc3af4432987eb630e9",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/House_REPOST_Copy.zip"
     },
     "islaestocastica.zip": {
@@ -306,6 +296,11 @@
       "folder_name": "westpointmarina",
       "folder_hash": "891f2161bfcd43a3e6845a2d816a94aa8e78bd2d196c5dba1fb0662317df2bb1",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/westpointmarina.zip"
+    },
+    "Kooshings_Dynamic_Aircraft_Mod.zip": {
+      "folder_name": "[Kooshing's] Dynamic Aircraft Mod",
+      "folder_hash": "7c1eee8eb87f249e350af8436c7cadbd9608d1f4475f26cf746fffef6f81a4e3",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/Kooshings_Dynamic_Aircraft_Mod.zip"
     }
   }
 }
