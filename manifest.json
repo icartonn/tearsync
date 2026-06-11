@@ -212,6 +212,11 @@
       "folder_hash": "355f133bf22eff5e61503837ad5b29951c51fdbde343a88d54a5943e832f474d",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/quilezsecurity.zip"
     },
+    "Radio.zip": {
+      "folder_name": "Radio",
+      "folder_hash": "6ed9ec7565f1f738593562db89aaa0df5c6674643e44fa9ccdaf45d83ce7b806",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/Radio.zip"
+    },
     "robotshowcase.zip": {
       "folder_name": "robotshowcase",
       "folder_hash": "51631aeda54c4ad7bde95c0abbf849e6c1852803e78cee5b5519302b29b2a74c",
