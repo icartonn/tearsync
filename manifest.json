@@ -32,6 +32,11 @@
       "folder_hash": "bd50545ebe5b1a41168cd4264f50ee9a67cbda9ed56792915a92f559ef089437",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/2979329972_realistic_russian_school_alpha.zip"
     },
+    "2989485208_spray.zip": {
+      "folder_name": "2989485208_spray",
+      "folder_hash": "f5d1bffaac1150516f8ada9bb629020f759e3d078e8ef4d20b7396f3576cfe11",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/2989485208_spray.zip"
+    },
     "3296484347.zip": {
       "folder_name": "3296484347",
       "folder_hash": "664c118b93b87fc5412b652b11b2e170adb461d1d1c2aa60e892c41b9a22d605",
@@ -214,7 +219,7 @@
     },
     "Radio.zip": {
       "folder_name": "Radio",
-      "folder_hash": "05ebd594bd9e2f53ea8bdc11f0119ea13d35898a415e869dd4d910e54019dfb4",
+      "folder_hash": "15bc5ec49a2786345c89ca9d3879cdd1f15e33a3507c9f3cc4573861d42cfa1d",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/Radio.zip"
     },
     "robotshowcase.zip": {
