@@ -72,6 +72,11 @@
       "folder_hash": "bfd0b7c1e78a5c9f51ecd049e1335607f413c2bafee2b4d5f0e54df313db6df8",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/3621835738.zip"
     },
+    "3634551685_dam_mp_optimized.zip": {
+      "folder_name": "3634551685_dam_mp_optimized",
+      "folder_hash": "6c825436b73d69d8eb129d2c2b2d9a1e1c701b3c80c0f477083b36ed9b94e4f9",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/3634551685_dam_mp_optimized.zip"
+    },
     "3665100521.zip": {
       "folder_name": "3665100521",
       "folder_hash": "e7b4001c734e792d866f4d43f9943c96862adb74e1da2f872fde4b37e40ba8ca",
@@ -312,6 +317,11 @@
       "folder_hash": "3662fbc9ca515048234f0817931eb351d26bc24b7b1f4a89d53b7e795a23b28e",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/tillaggaryd.zip"
     },
+    "ttc.zip": {
+      "folder_name": "ttc",
+      "folder_hash": "51785a19fbebec74885aae9127cf5e94202efd5626eee7a6ea6ee8f54d6cc874",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/ttc.zip"
+    },
     "uishowcase.zip": {
       "folder_name": "uishowcase",
       "folder_hash": "fa3fb2916ebc1a246f614ab94b4dd0bd31cbeccec8c9db5c3db2ad2e0746c975",
@@ -341,11 +351,6 @@
       "folder_name": "westpointmarina",
       "folder_hash": "891f2161bfcd43a3e6845a2d816a94aa8e78bd2d196c5dba1fb0662317df2bb1",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/westpointmarina.zip"
-    },
-    "Kooshings_Dynamic_Aircraft_Mod.zip": {
-      "folder_name": "[Kooshing's] Dynamic Aircraft Mod",
-      "folder_hash": "7c1eee8eb87f249e350af8436c7cadbd9608d1f4475f26cf746fffef6f81a4e3",
-      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/Kooshings_Dynamic_Aircraft_Mod.zip"
     }
   }
 }
