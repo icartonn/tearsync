@@ -52,6 +52,16 @@
       "folder_hash": "027b7eff5f80221b3c9e426a03a9eeb05fc8058cd66391c18aa476b0681b4972",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/3441296390.zip"
     },
+    "3447647134_oki_skynex_with_radar.zip": {
+      "folder_name": "3447647134_oki_skynex_with_radar",
+      "folder_hash": "231fd7f5033d195a508ce7ce64d3d148c7c106272ea5eb0917e8fa53ce95be1d",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/3447647134_oki_skynex_with_radar.zip"
+    },
+    "3574503366_andres_porsche_911_964.zip": {
+      "folder_name": "3574503366_andres_porsche_911_964",
+      "folder_hash": "0f675fa433b8583cc309eac6aa63b7d58f6c0072e0b3ee039b83738b584f9414",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/3574503366_andres_porsche_911_964.zip"
+    },
     "3621818416.zip": {
       "folder_name": "3621818416",
       "folder_hash": "f479d2200aaac4e55e956b58c75d1d3c77b6a69c327a7d18ef57251d63da76c2",
@@ -91,6 +101,11 @@
       "folder_name": "basic",
       "folder_hash": "0afec65b40dee5fe7550340db1f97a38d13e78ed05e0c0d7f45d812f4ef0a37e",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/basic.zip"
+    },
+    "BMW_M5.zip": {
+      "folder_name": "BMW M5",
+      "folder_hash": "27a7e5b106253bf88168c7828e4df69fb2f7f25e99dea08d030b90797feb2e58",
+      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/BMW_M5.zip"
     },
     "castle.zip": {
       "folder_name": "castle",
