@@ -2,11 +2,6 @@
   "repo": "icartonn/tearsync",
   "tag": "mods",
   "mods": {
-    "2500181730_nuke.zip": {
-      "folder_name": "2500181730_nuke",
-      "folder_hash": "ef7e64af4e1503bac56557411e9e1261",
-      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/2500181730_nuke.zip"
-    },
     "2559081519.zip": {
       "folder_name": "2559081519",
       "folder_hash": "5b322dceb813a5164fe1d1f6f8976c63",
@@ -46,11 +41,6 @@
       "folder_name": "2962249322 Spawnable Mini Planes",
       "folder_hash": "59a4074be3864ea98d4b91cf883b645d",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/2962249322_Spawnable_Mini_Planes.zip"
-    },
-    "3085576265.zip": {
-      "folder_name": "3085576265",
-      "folder_hash": "10f55ce6b0f38cff600307990a91d9f2",
-      "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/3085576265.zip"
     },
     "3296484347.zip": {
       "folder_name": "3296484347",
@@ -269,7 +259,7 @@
     },
     "rt5.zip": {
       "folder_name": "rt5",
-      "folder_hash": "f584004bf60a470d627765beab736404",
+      "folder_hash": "99aa06d3014798d86001c324468d497f",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/rt5.zip"
     },
     "Russian_Town_6_Summer.zip": {
@@ -319,7 +309,7 @@
     },
     "tillaggaryd.zip": {
       "folder_name": "tillaggaryd",
-      "folder_hash": "d1243e34db2d4301a6af70d433e1c82c",
+      "folder_hash": "99aa06d3014798d86001c324468d497f",
       "download_url": "https://github.com/icartonn/tearsync/releases/download/mods/tillaggaryd.zip"
     },
     "ttc.zip": {
